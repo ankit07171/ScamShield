@@ -1,0 +1,4 @@
+# Optional features
+python-whois>=0.9            # domain-age signal (set WHOIS_ENABLED=true)
+opencv-python-headless>=4.9  # decode QR images in /v1/analyze/qr
+numpy>=1.26
